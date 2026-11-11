@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Code and data for: Nonlocal parity-time symmetric gap solitons in the Gross-Pitaevskii equation with a periodic potential"
+authors:
+  - family-names: Riaz
+    given-names: H. W. A.
+  - family-names: Alshuhail
+    given-names: A.
+  - family-names: Ma
+    given-names: W. X.
+license: MIT
+repository-code: "https://github.com/ahmedphyy/nonlocal-gp-gap-solitons"
